@@ -8,4 +8,4 @@ function theBeatlesPlay (musicians, instruments){
   }
   return x;
 }
-return theBeatlesPlay
+theBeatlesPlay()
