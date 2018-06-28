@@ -7,5 +7,5 @@ function theBeatlesPlay (musicians, instruments){
     x.push("${musicians[0]} plays ${instruments[0]}");
   }
   return x;
-  
 }
+return theBeatlesPlay
